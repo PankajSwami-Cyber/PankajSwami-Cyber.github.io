@@ -158,7 +158,8 @@ Verified that both Suricata and tcpdump were installed on the system.
 ## Screenshots
 
 ```markdown
-![APT Installed](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/5c1b5191a6ceda4b27a23a34ee0171ce6d0ec601/Labs/linux-package-management-lab/screenshots/2%20APT%20Installed.png)
+![APT Installed](<img width="866" height="736" alt="image" src="https://github.com/user-attachments/assets/14e2beed-2eb1-490a-b027-b62212287313" />
+)
 
 ![Installing Suricata](screenshots/02-install-suricata.png)
 
