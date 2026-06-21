@@ -157,10 +157,6 @@ Verified that both Suricata and tcpdump were installed on the system.
 
 ## Screenshots
 
-Add your screenshots to a `/screenshots` folder and reference them here.
-
-Example:
-
 ```markdown
 ![APT Installed](screenshots/01-apt-installed.png)
 
