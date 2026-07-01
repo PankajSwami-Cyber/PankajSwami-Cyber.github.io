@@ -212,16 +212,6 @@ grep -c "Human Resources" Q4_added_users.txt
 
 ---
 
-## Screenshots
-
-### Log Analysis and User Report Analysis
-
-
-![screenshot20](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-grep-log-analysis/screenshots/20.png)
-
-![secreenshot30](https://github.com/PankajSwami-Cyber/PankajSwami-Cyber/blob/main/Labs/linux-grep-log-analysis/screenshots/30.png)
-
-
 ## Lessons Learned
 
 This lab reinforced the importance of command-line tools in cybersecurity operations. Using `grep` and piping enables analysts to quickly filter large amounts of data, identify relevant information, and investigate potential security events more efficiently.
