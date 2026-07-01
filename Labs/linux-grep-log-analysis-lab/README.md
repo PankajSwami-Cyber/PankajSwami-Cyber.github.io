@@ -225,3 +225,5 @@ This lab reinforced the importance of command-line tools in cybersecurity operat
 Aspiring Cybersecurity Analyst | Linux Enthusiast | SOC Analyst Learner
 
 Connect with me on LinkedIn and GitHub to follow my cybersecurity learning journey.
+
+Linkedin - <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="pankajswamicyber" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/pankajswamicyber?trk=profile-badge">Pankaj Swami</a></div>
